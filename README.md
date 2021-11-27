@@ -1,3 +1,3 @@
 # Data-Structures
 
-This Repository Has My Work On Data Structures using java programming language.
+This repository has my work on data structures using java programming language.
